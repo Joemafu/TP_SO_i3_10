@@ -1,0 +1,20 @@
+Alfa: Lautaro Lezama
+Beta: Joel Mahafud
+Gama: Franco Catania
+
+a-¿Como Queda El master después de estos cambios?
+Queda como la Rama creada por Beta
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si
+
+c-¿La ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No todos, solo los que se modificaron en cada rama
+
+d-¿Detalle los problemas que tuvieron al hacer el merge?
+Ninguno
+
+e- realizar un listado con los apellidos y nombre de los alumnos , junto con los comando y
+orden de ejecución de los mismos, que debieron usar para este TP y Guardarlo en el
+master como ComandosPorUsuario.txt
+
