@@ -1,6 +1,6 @@
 Alfa: Lautaro Lezama
 Beta: Joel Mahafud
-Gama: Franco Catania
+Gamma: Franco Catania
 
 Comandos Mahafud (Beta):
    47  git clone https://github.com/Joemafu/TP_SO_i3_10.git
