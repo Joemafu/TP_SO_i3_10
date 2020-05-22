@@ -1,0 +1,70 @@
+Alfa: Lautaro Lezama
+Beta: Joel Mahafud
+Gama: Franco Catania
+
+Comandos Mahafud (Beta):
+   47  git clone https://github.com/Joemafu/TP_SO_i3_10.git
+   48  sudo apt install git
+   49  git clone https://github.com/Joemafu/TP_SO_i3_10.git
+   50  cat /proc/cpuinfo /CPUBeta.txt
+   51  cat /proc/cpuinfo > /CPUBeta.txt
+   52  sudo cat /proc/cpuinfo > /CPUBeta.txt
+   53  sudo cat /proc/cpuinfo > CPUBeta.txt
+   54  ifconfig
+   55  time
+   56  thetime
+   57  timesystem
+   58  git
+   59  git checkout -b Catania
+   60  git branch --set-upstream-to=origin/Catania Catania
+   61  git pull
+   62  git branch --set-upstream-to=origin/Catania Catania
+   63  git pull
+   64  git clone https://github.com/Joemafu/TP_SO_i3_10.git
+   65  git 
+   66  git branch
+   67  git pull
+   68  git add .
+   69  git commit -m "Commit de Beta"
+   70  git config --global joe_mafu@hotmail.com
+   71  git config --global user.email joe_mafu@hotmail.com
+   72  git config --global user.name joemafu
+   73  git commit -m "Commit de Beta"
+   74  git push origin Catania
+   75  git pull
+   76  git checkout -b Mahafud
+   77  git branch
+   78  git add .
+   79  git commit -m "Commit Branch Mahafud"
+   80  git push origin Mahafud
+   81  history
+   82  git branch
+   83  git checkout -b Mahafud
+   84  git pull
+   85  git branch --set-upstream-to=origin/Mahafud Mahafud
+   86  git pull
+   87  git checkout master
+   88  git merge Mahafud
+   89  git add .
+   90  git commit -m "Merge"
+   91  git push
+   92  git pull
+   93  history >> respuesta_I3_Equipo10.txt 
+   
+   Comandos Lezama(Alfa)
+   git clone https://github.com/Joemafu/TP_S0_i3_10.git
+git checkout -b Catania
+git branch --set-upstream-to=origin/Catania Catania
+git pull
+cat /proc/cpuinfo > CPUAlfa.txt
+git status
+git add .
+git commit -m "cambios"
+git push origin Catania
+git checkout -b Mahafud
+git branch --set-upstream-to=origin/Mahafud Mahafud
+git pull
+ifconfig >> beta.txt
+git add .
+git commit -m "ifconfig de alfa"
+git push origin Mahafud
