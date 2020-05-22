@@ -68,3 +68,82 @@ ifconfig >> beta.txt
 git add .
 git commit -m "ifconfig de alfa"
 git push origin Mahafud
+
+   Comandos Catania (Gamma)
+   
+   59  git clone https://github.com/Joemafu/TP_SO_i3_10.git
+   60  ls
+   61  cd tp
+   62  cd TP_SO_i3_10/
+   63  ls
+   64  git branch
+   65  git branch Catania
+   66  git branch
+   67  git checkout Catania
+   68  git show-branch
+   69  ifconfig
+   70  hostname
+   71  hostname -i
+   72  hostname -I
+   73  echo "Franco Catania" > datos.txt
+   74  more datos.txt 
+   75  hostname -I >> datos.txt
+   76  more datos.txt
+   77  date +"%T"
+   78  date +"%T" >> datos.txt
+   79  more datos.txt
+   80  more /proc/cpuinfo
+   81  touch CPUGamma.txt
+   82  ls
+   83  cp /proc/cpuinfo CPUGamma.txt 
+   84  more CPUGamma.txt 
+   85  git stat
+   86  git status
+   87  git add .
+   88  git status
+   89  git commit -m "Primer commit Gamma"
+   90  git config --global user.name "FrancoUTN"
+   91  git commit -m "Primer commit Gamma"
+   92  git config --global user.email "cataniafrancoar@gmail.com"
+   93  git commit -m "Primer commit Gamma"
+   94  git push -u origin Catania
+   95  git push origin Catania
+   96  git
+   97  git branch
+   98  git pull
+   99  git branch
+  100  git checkout -b Mahafud
+  101  branch
+  102  git branch
+  103  ls
+  104  git branch --set-upstream-to=origin/Mahafud Mahafud
+  105  git pull
+  106  cat "Franco Catania" ifconfig >> CPUBeta.txt 
+  107  echo "Franco Catania" >> CPUBeta.txt 
+  108  git status
+  109  git restore .
+  110  git status
+  111  echo "Franco Catania" >> beta.txt
+  112  ifconfig >> beta.txt
+  113  date +"%T" >> beta.txt 
+  114  man remove
+  115  man rm
+  116  branch
+  117  git branch
+  118  ls
+  119  rm -vi CPU*
+  120  ls
+  121  git status
+  122  git rm CPU*
+  123  git status
+  124  git add beta.txt 
+  125  git status
+  126  git commit -m "Punto 5"
+  127  git push origin Mahafud
+  128  cd ..
+  129  history
+  130  history 50
+  131  history 80
+  132  cat history 73 > TPi3history
+  133  history 74 > TPi3history
+  134  history 76 > TPi3history
